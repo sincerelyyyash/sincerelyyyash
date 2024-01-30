@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter & MERN Stack<br>👯 I’m looking to collaborate on Interesting Projects in any of above fields.<br>💬 Ask me about Programming in general, Flutter or MERN<br>⚡ Currently learning about Open Source
+🔭 I’m currently working on Full Stack (MERN)<br>👯 I’m looking to collaborate on Interesting Projects in any full stack or flutter projects.<br>💬 Ask me about Programming in general, Flutter or MERN<br>⚡ Currently learning Typescript and exploring Web3
 
 
 ## 🌐 Socials:
